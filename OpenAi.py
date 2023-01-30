@@ -1,5 +1,5 @@
 import openai
-openai.api_key="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"
+openai.api_key="Your API KEY"
 while True:
     print("Enter Your Command.Ctrl-D to execute.");
     cmd = [];
