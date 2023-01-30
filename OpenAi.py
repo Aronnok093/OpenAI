@@ -1,7 +1,7 @@
 import openai
 openai.api_key="Your API KEY"
 while True:
-    print("Enter Your Command.Ctrl-D to execute.");
+    print("Enter Your Command.Ctrl-D or Ctrl-z to execute.");
     cmd = [];
     prompt="";
     while True:
